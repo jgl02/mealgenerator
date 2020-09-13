@@ -3,7 +3,7 @@
     {
       "idMeal": '1',
       "strMeal": 'Yogurt Parfait',
-      strLink: 'https://www.tasteofhome.com/recipes/rise-and-shine-parfait/'
+      "strLink": 'https://www.tasteofhome.com/recipes/rise-and-shine-parfait/'
     },
     {
       "idMeal": '2',
