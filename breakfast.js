@@ -1,4 +1,5 @@
-  breakfast: [
+  export const breakfastlist =
+  [
     {
       idMeal: '1'
       strMeal: 'Yogurt Parfait'
@@ -14,5 +15,4 @@
       strMeal: 'Oatmeal and Fruit'
       strLink: 'https://healthyfitnessmeals.com/fruit-and-oatmeal-breakfast-bowl/'
     }
-   ];
-}
+   ]
