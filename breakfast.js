@@ -1,4 +1,4 @@
-const breakfastlist = [
+var breakfastlist = [
     {
       idMeal: '1',
       strMeal: 'Yogurt Parfait',
