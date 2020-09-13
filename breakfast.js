@@ -1,5 +1,4 @@
-  export const breakfastlist =
-  const breakfastlist = [
+const breakfastlist = [
     {
       idMeal: '1',
       strMeal: 'Yogurt Parfait',
