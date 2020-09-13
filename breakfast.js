@@ -1,4 +1,3 @@
-export let {
   breakfast: [
     {
       idMeal: '1'
